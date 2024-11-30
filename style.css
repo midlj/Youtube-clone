@@ -68,8 +68,6 @@ header, .sidebar .nav-left, .category-list {
 :where(.navbar, .sidebar) :where(.logo-image, .user-image) {
   width: 32px;
   cursor: pointer;
-}
-:where(.navbar, .sidebar) :where(.user-image) {
   border-radius: 50%;
 }
 
